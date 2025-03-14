@@ -1,5 +1,7 @@
 # Computer Science
 
+- [Sorting Algorithms visualized with dance and sound](https://www.youtube.com/playlist?list=PLC79D6CCBB2C7ED13): A youtube playlist that is exactly what it says it is.
+- [BoraXAlgo](https://www.youtube.com/@boraxalgo/featured): YouTube channel with short, clear visual explanations of different algorithms
 - [Data Structures And Algorithms In Python (codebasics)](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12):
   YouTube tutorial with great visuals and narrated code-alongs.
 - [Introduction To Data Structures | Python Tutorials (Amulya's Academy)](https://www.youtube.com/watch?v=Gg2lj65aNCo&list=PLzgPDYo_3xukPJdH6hVQ6Iic7KiJuoA-l&index=6):

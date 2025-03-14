@@ -26,7 +26,7 @@
 ## Program Visualization Tools
 
 - [Python Tutor](https://pythontutor.com/visualize.html#mode=edit): A website with _statement-level_ stepping for short Python programs and clear memory visualizations.
-- [Thonny IDE](https://thonny.org): A downloadable programming  environment with _expression-level_ stepping, memory visualization and debugging tools.
+- [Thonny IDE](https://thonny.org): A downloadable programming environment with _expression-level_ stepping, memory visualization and debugging tools.
 - [Futurecoder IDE](https://futurecoder.io/course/#ide): A website with 3 ways to visualize your program execution: _[Snoop](https://pypi.org/project/snoop/), [Python Tutor](https://pythontutor.com/visualize.html#mode=edit) and [Birdseye](https://pypi.org/project/birdseye/)_
 - [The `trace` Module](https://docs.python.org/3/library/trace.html): A built-in python module for creating traces of your program's execution.
   - `$ python -m trace -t path/to/file.py`
@@ -42,6 +42,9 @@
 
 ## Tutorials and Courses
 
+- [Programming 24](https://programming-24.mooc.fi): Introduction to programming Python from the University of Helsinki.
+- [Automate the Boring Stuff](https://automatetheboringstuff.com): A pleasant introduction to Python with plenty of examples and exercises. 
+  - By the same author - [Cracking Codes with Python](https://inventwithpython.com/cracking/): Practice Python by studying codes, cyphers and encryption.
 - [Computational Core: Introduction to Python (KSU)](https://textbooks.cs.ksu.edu/intro-python/): A great course with live exercises, program visualization (_Python Tutor_) and worked examples.
 - [Python for Everybody](https://www.py4e.com): This web site is building a set
   of free materials, lectures, book and assignments to help students learn how
@@ -67,7 +70,7 @@
   Python tutorial.
 - [LearnPython](https://www.learnpython.org/): An interactive online tutorial.
 - [coddy.tech](https://coddy.tech): An interactive online tutorial, mobile-friendly.
-- [Introduction to Scripting in Python Specialization](https://www.coursera.org/specializations/introduction-scripting-in-python): This specialization is intended for beginners who would like to master essential programming skills.  
+- [Introduction to Scripting in Python Specialization](https://www.coursera.org/specializations/introduction-scripting-in-python): This specialization is intended for beginners who would like to master essential programming skills.
 - [Python Full Course 2024 (Bro Code)](https://www.youtube.com/watch?v=ix9cRaBkVe0) - _12 hours?!_
 
 ## References
