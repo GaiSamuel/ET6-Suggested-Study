@@ -1,5 +1,12 @@
 # Computer Science
 
+- How to Think Like a Computer Scientist:
+  [text book](https://openbookproject.net/thinkcs/python/english3e/index.html),
+  [python notebooks](https://github.com/rambasnet/Python-Fundamentals/blob/main/README.md)
+- [Big O Notation](https://www.youtube.com/playlist?list=PL7g1jYj15RUPVZDU9C276SZvlJjf4hzqV&si=HThvpQHUbGCJj0Me): A youtube playlist by Kantan Coding
+
+## Data Structures and Algorithms
+
 - [Sorting Algorithms visualized with dance and sound](https://www.youtube.com/playlist?list=PLC79D6CCBB2C7ED13): A youtube playlist that is exactly what it says it is.
 - [BoraXAlgo](https://www.youtube.com/@boraxalgo/featured): YouTube channel with short, clear visual explanations of different algorithms
 - [Data Structures And Algorithms In Python (codebasics)](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12):
@@ -13,9 +20,6 @@
 - [Data Structures & Algorithms (CS Dojo)](https://www.youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H):
   Introduction to Data Structures and Algorithms using Python and Java. Very
   good visuals, whiteboarding and explanations. Code samples available.
-- How to Think Like a Computer Scientist:
-  [text book](https://openbookproject.net/thinkcs/python/english3e/index.html),
-  [python notebooks](https://github.com/rambasnet/Python-Fundamentals/blob/main/README.md)
 
 ## Algorithm Visualization Tools
 
