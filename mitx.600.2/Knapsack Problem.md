@@ -27,9 +27,16 @@ Beginners and intermediate learners looking for implementation details.
 
 ---
 
-## MIT OpenCourseWare – Lecture 12: Knapsack and Sequence Alignment
+## MIT OpenCourseWare – Lecture 21: Dynamic Programming III – Knapsack, Edit Distance & Parenthesization
 
-🔗 [https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/lecture-12-dynamic-programming-ii-knapsack-sequence-alignment-etc/](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/lecture-12-dynamic-programming-ii-knapsack-sequence-alignment-etc/)
+🔗 [MIT OCW – Lecture 21: DP III – Parenthesization, Edit Distance, Knapsack](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/resources/lecture-21-dp-iii-parenthesization-edit-distance-knapsack/?utm_source=chatgpt.com)
+
+**Description:**  
+Part of MIT's 6.006 Introduction to Algorithms course. This lecture discusses the **Knapsack problem** in the context of **dynamic programming**, along with related problems like **edit distance** and **parenthesization**.
+
+**Best For:**  
+Students who are comfortable with recursion and want to see how dynamic programming solves optimization problems like knapsack. Also useful for understanding how brute force evolves into memoization-based solutions.
+
 
 **Description:**  
 Part of MIT's 6.006 Algorithms course. Covers the knapsack problem in the context of dynamic programming and sequence alignment.
@@ -72,3 +79,6 @@ This video provides an intuitive and engaging explanation of the idea behind the
 **Best For:**  
 Visual learners and beginners.  
 **Highly Recommended** as an introduction before exploring formal algorithms.
+
+---
+HAPPY LEARNING :)
