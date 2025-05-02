@@ -8,6 +8,8 @@ This page provides supplemental resources for Lecture 7 of **MITx 6.00.2x**: *In
 
 ### 1. Inferential Statistics  
 
+- [Descriptive statistics and inferential statistics](https://datatab.net/tutorial/descriptive-inferential-statistics)
+
 - [HarvardX – Statistics and R](https://www.edx.org/learn/r-programming/harvard-university-statistics-and-r)
 
 ### 2. Variation in Data  
