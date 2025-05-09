@@ -22,6 +22,10 @@
   good visuals, whiteboarding and explanations. Code samples available.
 - Algorithms and Time Complexity [Abdel Bari](https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
   A concise playlist with clear examples, making complex concepts in algorithms and time complexity easier to understand.
+- [Statistics for Data Science (StatQuest with Josh Starmer)](https://youtu.be/MXaJ7sa7q-8?si=m-7rwrK08Afewznq):  
+  A YouTube playlist by StatQuest with Josh Starmer. Covers core statistics concepts in a simple, visual, and highly engaging way—ideal for beginners and those who struggle with traditional math-heavy resources.
+
+
 
 ## Algorithm Visualization Tools
 
