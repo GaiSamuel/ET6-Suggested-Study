@@ -38,6 +38,8 @@
 - [Pandas Tutor (Philipe Guo)](https://pandastutor.com/): Pandas Tutor lets you
   write Python pandas code in your browser and see how it transforms your data
   step-by-step.
+- [Pandas Cookbook (Julia Evans)](https://github.com/jvns/pandas-cookbook)
+- [Pandas in Black and White (Jacob Deppen)](https://deppen8.github.io/pandas-bw/) (flashcards and cheat sheets)
 
 ## SQL
 
