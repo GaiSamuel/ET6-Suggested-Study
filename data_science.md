@@ -3,7 +3,7 @@
 - [Data Science Cheat Sheets (Favio André Vásquez)](https://github.com/FavioVazquez/ds-cheatsheets):
   Cheat Sheets, Python, Data Science, Big Data, Business Science, Data
   Visualization, Deep Learning, General, Machine Learning, Math Calculus, R, SQL
-- [The Art of Data Science (Roger D. Peng and Elizabeth Matsui)](https://bookdown.org/rdpeng/artofdatascience/):
+- [The Art of Data Science (Roger D. Peng and Elizabeth Matsui)](https://bookdown.org/rdpeng/artofdatascience/) ([PDF version](https://ia801802.us.archive.org/11/items/datascienceebooks/artofdatascience.pdf)):
   What we have set out to do in this book is to write down the process of data
   analysis. What we describe is not a specific “formula” for data
   analysis—something like “apply this method and then run that test”— but rather
